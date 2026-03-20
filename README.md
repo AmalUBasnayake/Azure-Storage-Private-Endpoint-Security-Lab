@@ -1,7 +1,7 @@
 <!-- ================= HERO BANNER ================= -->
 
 <p align="center">
-  <img src="images/banner.png" width="100%">
+  <img src="Architecture/banner.png" width="100%">
 </p>
 
 <h1 align="center">🔐 Azure Storage Private Endpoint Security Lab</h1>
@@ -31,7 +31,7 @@ The lab simulates a **real-world secure cloud architecture** where storage resou
 ---
 
 # 🏗️ Architecture
-![Create Storage](Architecture/Architecture-N.png)
+![Architecture](Architecture/Architecture-N.png)
 
 Azure Storage Account → Private Endpoint → Virtual Network → Secure Access
 
