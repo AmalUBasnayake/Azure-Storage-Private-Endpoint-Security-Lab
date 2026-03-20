@@ -6,6 +6,7 @@
 ![Networking](https://img.shields.io/badge/Feature-Private%20Endpoint-purple)
 ![Project](https://img.shields.io/badge/Project-Security%20Lab-success)
 
+ ![Create Storage](Architecture/banner.png)
 ---
 
 # 📌 Overview
@@ -17,7 +18,7 @@ The lab simulates a **real-world secure cloud architecture** where storage resou
 ---
 
 # 🏗️ Architecture
-![Create Storage](Architecture/Architecture.png)
+![Create Storage](Architecture/Architecture-N.png)
 
 Azure Storage Account → Private Endpoint → Virtual Network → Secure Access
 
