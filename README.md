@@ -132,17 +132,7 @@ This proves:
 
 # 📁 Project Structure
 
-Azure-Storage-Private-Endpoint-Security-Lab
-│
-├── README.md
-│
-├── images
-│ ├── create-storage.png
-│ ├── public-access-enabled.png
-│ ├── public-access-disabled.png
-│ ├── private-endpoint.png
-│ ├── private-endpoint-overview.png
-│ └── access-denied.png
+![Access Denied](images/Project-structure.png)
 
 
 ---
@@ -159,7 +149,9 @@ This lab highlights how **Azure Private Endpoint** can be used to enforce **secu
 
 Cloud Security • Azure Security • SIEM • Threat Detection  
 
-GitHub: https://github.com/AmalUBasnayake  
+GitHub   : https://github.com/AmalUBasnayake  
+Linkedln : https://www.linkedin.com/in/amal-udayanga-basnayake
+Medium   : https://medium.com/@amalubasnayake
 
 ---
 
