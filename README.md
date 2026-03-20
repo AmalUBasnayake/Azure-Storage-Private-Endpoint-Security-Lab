@@ -1,12 +1,25 @@
-# 🔐 Azure Storage Private Endpoint Security Lab
+<!-- ================= HERO BANNER ================= -->
 
-![Azure](https://img.shields.io/badge/Cloud-Microsoft%20Azure-blue?logo=microsoftazure)
-![Security](https://img.shields.io/badge/Domain-Cloud%20Security-red)
-![Storage](https://img.shields.io/badge/Service-Azure%20Storage-green)
-![Networking](https://img.shields.io/badge/Feature-Private%20Endpoint-purple)
-![Project](https://img.shields.io/badge/Project-Security%20Lab-success)
+<p align="center">
+  <img src="images/banner.png" width="100%">
+</p>
 
- ![Create Storage](Architecture/banner.png)
+<h1 align="center">🔐 Azure Storage Private Endpoint Security Lab</h1>
+
+<p align="center">
+A hands-on <b>Cloud Security Lab</b> demonstrating how to secure an <b>Azure Storage Account</b> using <b>Private Endpoint</b>, <b>Virtual Network Isolation</b>, and <b>Zero Trust principles</b>.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure-blue?logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/Security-Private%20Endpoint-purple"/>
+<img src="https://img.shields.io/badge/Network-Isolation-green"/>
+<img src="https://img.shields.io/badge/ZeroTrust-Enabled-red"/>
+<img src="https://img.shields.io/badge/Project-Security%20Lab-success"/>
+
+</p>
+
 ---
 
 # 📌 Overview
