@@ -17,6 +17,7 @@ The lab simulates a **real-world secure cloud architecture** where storage resou
 ---
 
 # 🏗️ Architecture
+![Create Storage](Architecture/Architecture.png)
 
 Azure Storage Account → Private Endpoint → Virtual Network → Secure Access
 
